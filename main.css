@@ -18,10 +18,10 @@ h1, h2, h3 {
 
 aside {
 	
-	width: 34%;
-	float: right;
+	width: 20%;
+	float: left;
 	margin-right: 80px;
-	margin-left: 0;
+	margin-left: 20px;
 }
 
 footer {
@@ -41,6 +41,7 @@ main {
 	float: left;
 	width: 45%;
 	margin: 5px;
+	margin-left: 0;
 }
 
 nav {
@@ -51,8 +52,4 @@ nav {
 
 #copyright {
 	font-size: 80%;
-}
-
-#main-container {
-	
 }
