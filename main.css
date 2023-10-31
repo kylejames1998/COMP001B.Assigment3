@@ -10,6 +10,7 @@ body {
 	font-size: 16px;
 	font-family: 'Sanchez', serif;
 	width: 100%;
+	margin: 0;
 }
 
 h1, h2, h3 {
@@ -26,6 +27,9 @@ aside {
 
 footer {
 	clear: both;
+	position: fixed;
+	bottom: 10px;
+	left: 0;
 }
 
 header {
@@ -35,11 +39,12 @@ header {
 
 img {
 	max-width: 75%;
+	margin-top: 10px;
 }
 
 main {
 	float: left;
-	width: 45%;
+	width: 40%;
 	margin: 5px;
 	margin-left: 0;
 }
